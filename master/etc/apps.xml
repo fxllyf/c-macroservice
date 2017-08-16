@@ -1,0 +1,24 @@
+<?xml version="2.0" encoding="UTF-8" ?>
+<top>
+	<message name="apps">
+		<property name="servertype">3</property>
+		<property name="count">0</property>
+		<property name="path">/usr/bin/app1</property>
+		<!--property name="params">-trace</property-->
+		<property name="start_by_self">0</property>
+	</message>
+	<message name="apps">
+		<property name="servertype">1</property>
+		<property name="count">0</property>
+		<property name="path">/usr/bin/notifywrk</property>
+		<!--property name="params">-trace</property-->
+		<property name="start_by_self">0</property>
+	</message>
+	<message name="apps">
+		<property name="servertype">2</property>
+		<property name="count">0</property>
+		<property name="path">/usr/bin/authwrk</property>
+		<!--property name="params">-trace</property-->
+		<property name="start_by_self">0</property>
+	</message>
+</top>
